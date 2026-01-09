@@ -13,9 +13,20 @@ console.log(now);
 
 // Dichiara la funzione qui.
 
+function clockGreet (hours) {
+    let saluto = ""; 
+    if (hours <= 13) {
+        saluto = "Buongiorno,"
+    } else if (hours <= 17) {
+        saluto = "Buon pomeriggio,"
+    } else {
+        saluto = "Buonasera,"
+    } 
+    return saluto; 
+} 
 
 // Invoca la funzione qui e stampa il risultato in console
-
+console.log(clockGreet(hours), name);
 
 
 //Risultato atteso se si passa 'Mario' alle 18: // Buonasera Mario.
