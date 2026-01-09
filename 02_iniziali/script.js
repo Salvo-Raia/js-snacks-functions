@@ -2,8 +2,14 @@
 const names = ["Anna", "Luca", "Marco", "Adele", "Giovanni", "Alessandra"];
 
 // Dichiara la funzione qui.
+
+/**
+ * This function allow to populate a new array with the first characters of names in a given array.
+ * @param {Array} names An array of names from wich the function will select only the first characters.
+ * @returns {Array} A new array with just the first character of every name in the original array.
+ */
 function onlyFirstDigit (names) {
-    firstDigitArray = []; 
+    const firstDigitArray = []; 
     for (i = 0; i < names.length; i++) {
         firstDigitArray.push (names[i].charAt(0))
     }
