@@ -21,11 +21,11 @@ console.log(now);
 function clockGreet (hours) {
     let saluto = ""; 
     if (hours <= 13) {
-        saluto = "Buongiorno,"
+        saluto = "🌃 Buongiorno,"
     } else if (hours <= 17) {
-        saluto = "Buon pomeriggio,"
+        saluto = "🌃 Buon pomeriggio,"
     } else {
-        saluto = "Buonasera,"
+        saluto = "🌃 Buonasera,"
     } 
     return saluto; 
 } 
