@@ -3,6 +3,12 @@ const word = 'javascript';
 let vowelsFound = []; 
 
 // Dichiara la funzione qui.
+
+/**
+ * This function allow you to count the number of vowels in a string.
+ * @param {string} word is a string to read in search of vowels
+ * @returns {number} the number of vowels found in the string
+ */
 function vowelsCounter (word) {
     const vowels = ["a", "e", "i", "o", "u"]
     let vowelsNumber = 0;
