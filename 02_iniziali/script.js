@@ -10,5 +10,6 @@ function onlyFirstDigit (names) {
     return firstDigitArray;    
 } 
 // Invoca la funzione qui e stampa il risultato in console
+console.log(onlyFirstDigit(names));
 
 //Risultato atteso: ["A", "L", "M", "A", "G", "A"]
