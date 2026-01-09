@@ -13,6 +13,11 @@ console.log(now);
 
 // Dichiara la funzione qui.
 
+/**
+ * This function allows you to get a customized greet based on time-clock
+ * @param {date} hours a date\hour value
+ * @returns {string} a customized string
+ */
 function clockGreet (hours) {
     let saluto = ""; 
     if (hours <= 13) {
