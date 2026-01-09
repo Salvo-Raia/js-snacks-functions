@@ -6,6 +6,9 @@ e buonasera se è sera (oltre le 17)
 */
 
 const name = 'Mario';
+const now = new Date ();
+const hours = now.getHours();
+console.log(now);
 
 
 // Dichiara la funzione qui.
