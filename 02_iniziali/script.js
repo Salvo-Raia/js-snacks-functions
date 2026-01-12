@@ -18,4 +18,4 @@ function onlyFirstDigit (names) {
 // Invoca la funzione qui e stampa il risultato in console
 console.log(onlyFirstDigit(names));
 
-//Risultato atteso: ["A", "L", "M", "A", "G", "A"]
+//Risultato atteso: ["A", "L", "M", "A", "G", "A"]    

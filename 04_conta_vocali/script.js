@@ -16,8 +16,8 @@ function vowelsCounter (word) {
 for (i = 0; i < word.length; i++) {
     currentChar = word[i] 
     if (vowels.includes(word[i])) {
-        vowelsNumber += 1
-        vowelsFound.push(word[i])
+        vowelsNumber += 1;
+        vowelsFound.push(word[i]);
 }
 } 
 return vowelsNumber;

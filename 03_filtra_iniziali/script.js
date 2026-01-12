@@ -11,9 +11,9 @@ const letter = prompt("Inserisci un'iniziale", "A").toUpperCase()
  */
 function FirstDigitFilter (names, letter) {
     let filteredNames = []
-    for (i = 0; i < names.length; i++) {
-    let currentName = names; 
-    if (currentName[i].charAt(0) == letter) {
+    for (let i = 0; i < names.length; i++) {
+    let currentName = names[i]; 
+    if (currentName.charAt(0) == letter) {
         filteredNames.push(names[i])
     }
 } return filteredNames
