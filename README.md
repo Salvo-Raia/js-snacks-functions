@@ -1,6 +1,8 @@
-![Boolean Tech Academy](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 23/50 - JavaScript Function Snacks
+# 🎓 Exercise 23/50: JavaScript Function Snacks
+
+Defining and using JavaScript functions to manipulate strings, process arrays, and solve practical problems with both traditional and arrow function syntax, without relying on map, filter, or reduce methods.
 
 ## 📌 Project Overview
 
@@ -15,11 +17,9 @@
 
 Solve the exercises provided in the attached files by defining and invoking JavaScript functions.
 
-<badge color="danger">Restrictions</badge>
-
 **Do not use `map()`, `filter()`, or `reduce()`!**
 
-### 1. Greetings
+#### 1. Greetings
 
 Write a function that accepts a string containing a name and returns a greeting followed by the provided name.
 
@@ -29,7 +29,7 @@ Write a function that accepts a string containing a name and returns a greeting 
 "Ciao Mario"
 ```
 
-### 2. Initials
+#### 2. Initials
 
 Write a function that accepts an array of names and returns a new array containing the first initial of each name in the provided array.
 
@@ -39,7 +39,7 @@ Write a function that accepts an array of names and returns a new array containi
 ["A", "L", "M", "A", "G", "A"]
 ```
 
-### 3. Filter by Initial
+#### 3. Filter by Initial
 
 Write a function that accepts an array of strings and a letter, then returns a new array containing only the words that start with that letter.
 
@@ -49,7 +49,7 @@ Write a function that accepts an array of strings and a letter, then returns a n
 ["Anna", "Adele", "Alessandra"]
 ```
 
-### 4. Count Vowels
+#### 4. Count Vowels
 
 Write a function that accepts a string and returns the number of vowels it contains.
 
@@ -62,9 +62,9 @@ a, a, i
 ## ⭐ Bonus
 
 - Solve all the exercises using both **traditional functions** and **arrow functions**.
-- Solve the fourth exercise in the `05 - bonus` folder.
+- Solve the fourth exercise in the `05_bonus` folder.
 
-### 5. Bonus - Time-Based Greetings
+#### 5. Bonus - Time-Based Greetings
 
 Write a function that accepts a string containing a name and returns a greeting followed by the provided name.
 
@@ -98,4 +98,4 @@ The greeting must change according to the current time:
 
 ## ©️ Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
