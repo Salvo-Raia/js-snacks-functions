@@ -59,7 +59,7 @@ Write a function that accepts a string and returns the number of vowels it conta
 a, a, i
 ```
 
-## ⭐ Bonus
+### ⭐ Bonus
 
 - Solve all the exercises using both **traditional functions** and **arrow functions**.
 - Solve the fourth exercise in the `05_bonus` folder.
