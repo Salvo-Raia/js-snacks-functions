@@ -1,19 +1,16 @@
 ![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 23/50: JavaScript Function Snacks
+# Exercise 23/50: JavaScript Function Snacks
 
 Defining and using JavaScript functions to manipulate strings, process arrays, and solve practical problems with both traditional and arrow function syntax, without relying on map, filter, or reduce methods.
 
-## 📌 Project Overview
+## Project overview
 
-| Property | Details |
-|:--|:--|
-| Repository | js-snacks-functions |
-| Category | Boolean Tech Academy |
-| Type | Exercise |
-| Exercise | 23/50 |
+| Repository | Project | Category | Main Focus | Exercise |
+|:--|:--|:--|:--|:--|
+| js-snacks-functions | JavaScript Function Snacks | Exercise | JavaScript functions, arrow functions & Array iteration | 23/50 |
 
-## 🎯 Assignment
+## Assignment
 
 Solve the exercises provided in the attached files by defining and invoking JavaScript functions.
 
@@ -59,7 +56,7 @@ Write a function that accepts a string and returns the number of vowels it conta
 a, a, i
 ```
 
-### ⭐ Bonus
+#### Bonus challenge
 
 - Solve all the exercises using both **traditional functions** and **arrow functions**.
 - Solve the fourth exercise in the `05_bonus` folder.
@@ -80,11 +77,11 @@ The greeting must change according to the current time:
 "Buonasera Mario"
 ```
 
-## 🛠️ Technologies
+## Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 💡 What I Learned
+## 💡 What I learned
 
 - Defining and invoking JavaScript functions.
 - Working with function parameters and return values.
@@ -96,6 +93,6 @@ The greeting must change according to the current time:
 - Working with date and time to generate dynamic results.
 - Breaking down problems into reusable functions.
 
-## ©️ Credits
+## Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025-2026).
