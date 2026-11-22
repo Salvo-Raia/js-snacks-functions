@@ -81,7 +81,7 @@ The greeting must change according to the current time:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 💡 What I learned
+## What I learned
 
 - Defining and invoking JavaScript functions.
 - Working with function parameters and return values.
