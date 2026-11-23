@@ -8,7 +8,7 @@ Defining and using JavaScript functions to manipulate strings, process arrays, a
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| js-snacks-functions | JavaScript Function Snacks | Exercise | JavaScript functions, arrow functions & Array iteration | 23/50 |
+| js-snacks-functions | JavaScript Function Snacks | Exercise | JavaScript, functions & Array iteration | 23/50 |
 
 ## Assignment
 
@@ -36,7 +36,7 @@ Write a function that accepts an array of names and returns a new array containi
 ["A", "L", "M", "A", "G", "A"]
 ```
 
-#### 3. Filter by Initial
+#### 3. Filter by initial
 
 Write a function that accepts an array of strings and a letter, then returns a new array containing only the words that start with that letter.
 
@@ -46,7 +46,7 @@ Write a function that accepts an array of strings and a letter, then returns a n
 ["Anna", "Adele", "Alessandra"]
 ```
 
-#### 4. Count Vowels
+#### 4. Count vowels
 
 Write a function that accepts a string and returns the number of vowels it contains.
 
@@ -61,7 +61,7 @@ a, a, i
 - Solve all the exercises using both **traditional functions** and **arrow functions**.
 - Solve the fourth exercise in the `05_bonus` folder.
 
-#### 5. Bonus - Time-Based Greetings
+#### 5. Bonus - Time-Based greetings
 
 Write a function that accepts a string containing a name and returns a greeting followed by the provided name.
 
