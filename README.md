@@ -59,13 +59,13 @@ a, a, i
 #### Bonus challenge
 
 - Solve all the exercises using both **traditional functions** and **arrow functions**.
-- Solve the fourth exercise in the `05_bonus` folder.
+- Solve the exercise in the `05_bonus` folder.
 
-#### 5. Bonus - Time-Based greetings
+**Time-Based greetings**
 
 Write a function that accepts a string containing a name and returns a greeting followed by the provided name.
 
-The greeting must change according to the current time:
+The greeting must change according to the current time.
 
 - **Good morning:** until 1 PM.
 - **Good afternoon:** until 5 PM.
