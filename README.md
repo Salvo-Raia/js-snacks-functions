@@ -8,7 +8,7 @@ Defining and using JavaScript functions to manipulate strings, process arrays, a
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| js-snacks-functions | JavaScript Function Snacks | Exercise | JavaScript, functions & Array iteration | 23/50 |
+| js-snacks-functions | JavaScript Function Snacks | Exercise | JavaScript, functions, array iteration | 23/50 |
 
 ## Assignment
 
@@ -58,10 +58,12 @@ a, a, i
 
 #### Bonus challenge
 
+Try to complete the following additional challenges.
+
 - Solve all the exercises using both **traditional functions** and **arrow functions**.
 - Solve the exercise in the `05_bonus` folder.
 
-**Time-Based greetings**
+**Time-based greetings**
 
 Write a function that accepts a string containing a name and returns a greeting followed by the provided name.
 
