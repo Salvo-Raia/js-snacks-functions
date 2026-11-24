@@ -73,7 +73,7 @@ The greeting must change according to the current time.
 - **Good afternoon:** until 5 PM.
 - **Good evening:** after 5 PM.
 
-**Expected result** when passing `"Mario"` at 6 PM:
+**Expected result when passing `"Mario"` at 6 PM:** 
 
 ```javascript
 "Buonasera Mario"
