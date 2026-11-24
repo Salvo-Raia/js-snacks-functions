@@ -16,7 +16,7 @@ Solve the exercises provided in the attached files by defining and invoking Java
 
 **Do not use `map()`, `filter()`, or `reduce()`!**
 
-#### 1. Greetings
+#### Snack 1: Greetings
 
 Write a function that accepts a string containing a name and returns a greeting followed by the provided name.
 
@@ -26,7 +26,7 @@ Write a function that accepts a string containing a name and returns a greeting 
 "Ciao Mario"
 ```
 
-#### 2. Initials
+#### Snack 2: Initials
 
 Write a function that accepts an array of names and returns a new array containing the first initial of each name in the provided array.
 
@@ -36,7 +36,7 @@ Write a function that accepts an array of names and returns a new array containi
 ["A", "L", "M", "A", "G", "A"]
 ```
 
-#### 3. Filter by initial
+#### Snack 3: Filter by initial
 
 Write a function that accepts an array of strings and a letter, then returns a new array containing only the words that start with that letter.
 
@@ -46,7 +46,7 @@ Write a function that accepts an array of strings and a letter, then returns a n
 ["Anna", "Adele", "Alessandra"]
 ```
 
-#### 4. Count vowels
+#### Snack 4: Count vowels
 
 Write a function that accepts a string and returns the number of vowels it contains.
 
@@ -61,9 +61,9 @@ a, a, i
 Try to complete the following additional challenges.
 
 - Solve all the exercises using both **traditional functions** and **arrow functions**.
-- Solve the exercise in the `05_bonus` folder.
+- Solve the exercise in the `05_bonus` folder (Snack 5: Time-based greetings).
 
-**Time-based greetings**
+**Snack 5: Time-based greetings**
 
 Write a function that accepts a string containing a name and returns a greeting followed by the provided name.
 
