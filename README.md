@@ -52,8 +52,8 @@ Write a function that accepts a string and returns the number of vowels it conta
 
 **Expected result when passing `"javascript"`:**
 
-```javascript
-a, a, i
+```text
+La parola javascript contiene 3 vocali, cioè: [ 'a', 'a', 'i' ]
 ```
 
 #### Bonus challenge
