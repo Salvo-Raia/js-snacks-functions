@@ -20,7 +20,7 @@ Solve the exercises provided in the attached files by defining and invoking Java
 
 Write a function that accepts a string containing a name and returns a greeting followed by the provided name.
 
-**Expected result** when passing `"Mario"`:
+**Expected result when passing `"Mario"`:**
 
 ```javascript
 "Ciao Mario"
@@ -40,7 +40,7 @@ Write a function that accepts an array of names and returns a new array containi
 
 Write a function that accepts an array of strings and a letter, then returns a new array containing only the words that start with that letter.
 
-**Expected result** when passing the letter `"A"`:
+**Expected result when passing the letter `"A"`:**
 
 ```javascript
 ["Anna", "Adele", "Alessandra"]
@@ -50,7 +50,7 @@ Write a function that accepts an array of strings and a letter, then returns a n
 
 Write a function that accepts a string and returns the number of vowels it contains.
 
-**Expected result** when passing `"javascript"`:
+**Expected result when passing `"javascript"`:**
 
 ```javascript
 a, a, i
